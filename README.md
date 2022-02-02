@@ -1,2 +1,2 @@
 # ProjetoFilmsFlix
- Site de filmes e séries inspirado no site da netflix, para exercitar meus conhecimentos de html/css
+ Site de filmes e séries site da netflix, inspirados para exercitar meus conhecimentos de séries
